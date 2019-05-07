@@ -1,0 +1,21 @@
+{
+  "name": "hyper-seoul256",
+  "version": "0.0.1",
+  "description": "The Hyper terminal porting of the seoul256 theme",
+  "license": "MIT",
+  "repository": "waigx/hyper-seoul256",
+  "author": {
+    "name": "Yigong Wang",
+    "email": "yigwang@cs.stonybrook.edu",
+    "url": "http://yigo.ng"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "seoul256",
+    "hyper",
+    "hyper-theme",
+    "hyper-seoul256"
+  ]
+}
